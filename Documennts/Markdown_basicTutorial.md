@@ -1,6 +1,6 @@
 # Markdown基本教程
 
-以下是Markdown的一些实例.
+以下是Markdown的一些实例
 
 `#`代表标题，数量越多等级越低
 
