@@ -3,14 +3,16 @@
 
 ## 主板
 
+CPLD XC95144XL-10TQG100
 STM32F103ZET6 主板功能管理（南桥） 
 ```
-管理电源EN
-测量各路电压
-CPU温度保护
-与CPU板通信
-CPU板复位信号——经过cpld 2io
-ARM板复位信号——经过cpld 2io
+管理电源EN PMIC
+主板输入电压电流功耗计算
+测量各路电压 *电压FAULT关闭电源 亮Fault并显示器显示
+CPU温度保护 *温度保护 关闭电源 亮Fault并显示器显示
+与CPU板通信 *串口 温度信号主板电压电流功率回传
+CPU板启动复位信号——经过cpld 2io 双输入正门
+ARM板启动复位信号——经过cpld 2io 双输入正门
 SPI屏幕显示基本信息
 PT100温度传感器信号检出
 与CPLD交流并关闭输出
@@ -60,6 +62,14 @@ ARM和FPGA
 - TI TMS28337
 
 SRIO通信
+
+Fault记录
+- STM32 Fault
+  - 温度
+  - 电压
+- CPLD Fault
+  - PWM
+  - 
 ## ARM附件
 - Rockchip RK3588
 
@@ -103,9 +113,24 @@ DAC们和一堆运放
 ## 示波器卡
 
 
+# 扭矩传感器
+# 磁粉制动器
 
+# 主要硬件型号
 
+## 主板
+- 处理器
+  - STM32F103ZET6
+  - XC95144XL-10TQG100
+- 电源
+  - TPS
+- PHY
+  - USB 
 
+## CPU板
+- FPGA
+- DSP
+- ARM
 
 
 
