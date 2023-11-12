@@ -15,10 +15,10 @@
 <www.google.com> 谷歌娘
 
 [GITHUB]: https://github.com
-[立创开源平台]: ttps://oshwhub.co
-[菜鸟教程]: ttps://www.runoob.co
-[HACKDAY.IO]: ttps://hackaday.io
-[CSDN]: ttps://www.csdn.net
+[立创开源平台]: https://oshwhub.com
+[菜鸟教程]: https://www.runoob.com
+[HACKDAY.IO]: https://hackaday.io
+[CSDN]: https://www.csdn.net
 
 ## 项目篇
 
