@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=DiffEncoder.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DiffEncoder.SchDoc|FileName=Encoder.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DiffEncoder.SchDoc|FileName=InputMUX.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DiffEncoder.SchDoc|FileName=Resolver.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DiffEncoder.SchDoc|FileName=SPI_Encoder.SchDoc|SheetNumber=5
