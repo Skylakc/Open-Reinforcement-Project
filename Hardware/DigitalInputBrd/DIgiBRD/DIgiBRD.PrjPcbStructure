@@ -1,6 +1,5 @@
-Record=TopLevelDocument|FileName=Conn&PWR.SchDoc|SheetNumber=5
-Record=SheetSymbol|SourceDocument=Conn&PWR.SchDoc|Designator=U_DiffEncoder|SchDesignator=U_DiffEncoder|FileName=DiffEncoder.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=DiffEncoder.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=Encoder.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=InputMUX.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Conn&PWR.SchDoc|SheetNumber=4
+Record=SheetSymbol|SourceDocument=Conn&PWR.SchDoc|Designator=U_DiffEncoder|SchDesignator=U_DiffEncoder|FileName=DiffEncoder.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=DiffEncoder.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=Encoder.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=Resolver.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=SPI_Encoder.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Conn&PWR.SchDoc|FileName=SPI_Encoder.SchDoc|SheetNumber=3

@@ -24,7 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
-AutoCrossReferences=1
+AutoCrossReferences=0
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YHERFEGF
 
 [Document3]
-DocumentPath=InputMUX.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HALINPFG
-
-[Document4]
 DocumentPath=Encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODTJJGOR
 
-[Document5]
+[Document4]
 DocumentPath=SPI_Encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOECAMKO
 
-[Document6]
+[Document5]
 DocumentPath=Conn&PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
