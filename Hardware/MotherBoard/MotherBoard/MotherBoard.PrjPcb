@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PT100.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WMZWUWGB
+
+[Document2]
 DocumentPath=GPIO_Extend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNVELQVI
 
-[Document2]
+[Document3]
 DocumentPath=STM32F103.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USTMENHS
 
-[Document3]
+[Document4]
 DocumentPath=STM32F1Debugger.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGMDTKWV
 
-[Document4]
+[Document5]
 DocumentPath=CPU_CONN1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLAOKFJR
 
-[Document5]
+[Document6]
 DocumentPath=CPLD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDURXCON
 
-[Document6]
+[Document7]
 DocumentPath=Receiver&Transmitter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMOKFCCU
 
-[Document7]
+[Document8]
 DocumentPath=MainPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEQDTWSX
 
-[Document8]
+[Document9]
 DocumentPath=DigiConn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
