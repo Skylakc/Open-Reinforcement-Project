@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FVNXLUAI
 
 [Document2]
+DocumentPath=PORT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TZPLDWJA
+
+[Document3]
 DocumentPath=BreakResistor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,23 +98,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGHQNAGK
-
-[Document3]
-DocumentPath=PowerModule.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OWXRKMEL
 
 [Document4]
 DocumentPath=8ChannelADCs.SchDoc
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VCEWJTAQ
 
 [Document5]
-DocumentPath=PORT.SchDoc
+DocumentPath=PowerModule.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TZPLDWJA
+DocumentUniqueId=OWXRKMEL
 
 [Configuration1]
 Name=Sources

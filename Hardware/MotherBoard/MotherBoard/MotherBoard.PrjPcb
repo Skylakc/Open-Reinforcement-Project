@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WMZWUWGB
 
 [Document2]
-DocumentPath=GPIO_Extend.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FNVELQVI
-
-[Document3]
 DocumentPath=STM32F103.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USTMENHS
 
-[Document4]
+[Document3]
 DocumentPath=STM32F1Debugger.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGMDTKWV
 
-[Document5]
+[Document4]
 DocumentPath=CPU_CONN1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLAOKFJR
 
-[Document6]
+[Document5]
 DocumentPath=CPLD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,24 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDURXCON
 
-[Document7]
-DocumentPath=Receiver&Transmitter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMOKFCCU
-
-[Document8]
+[Document6]
 DocumentPath=MainPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +150,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEQDTWSX
 
-[Document9]
+[Document7]
+DocumentPath=EthernetRTL8211.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NKRYKUPX
+
+[Document8]
 DocumentPath=DigiConn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,6 +183,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGXUNZIM
+
+[Document9]
+DocumentPath=PT100_SIG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OTPKOCIR
+
+[Document10]
+DocumentPath=PowerBRDConn.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YLKBLENU
 
 [Configuration1]
 Name=Sources
