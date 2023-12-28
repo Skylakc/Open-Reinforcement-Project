@@ -3,11 +3,17 @@ Record=SheetSymbol|SourceDocument=PT100.SchDoc|Designator=U_PT100_SIG1|SchDesign
 Record=SheetSymbol|SourceDocument=PT100.SchDoc|Designator=U_PT100_SIG2|SchDesignator=Repeat(U_PT100_SIG,1,4)|FileName=PT100_SIG.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PT100_SIG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PT100.SchDoc|Designator=U_PT100_SIG3|SchDesignator=Repeat(U_PT100_SIG,1,4)|FileName=PT100_SIG.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PT100_SIG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PT100.SchDoc|Designator=U_PT100_SIG4|SchDesignator=Repeat(U_PT100_SIG,1,4)|FileName=PT100_SIG.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PT100_SIG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=CODEC.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=CPLD.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=CPU_CONN1.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=DigiConn.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=EthernetRTL8211.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=HDMI.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=MainPower.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=PowerBRDConn.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=RK3399PRO-JD4.SchDoc|SheetNumber=15
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=STM32F1Debugger.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=STM32F103.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=USB2UART.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=USB_HUB.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=PT100.SchDoc|FileName=WIFI_BT.SchDoc|SheetNumber=12

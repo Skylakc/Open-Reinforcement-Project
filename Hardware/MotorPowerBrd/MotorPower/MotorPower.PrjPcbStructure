@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=PORT.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PORT.SchDoc|Designator=U_4ChannelADCs|SchDesignator=U_4ChannelADCs|FileName=4ChannelADCs.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=4ChannelADCs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PORT.SchDoc|Designator=U_BreakResistor|SchDesignator=U_BreakResistor|FileName=BreakResistor.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BreakResistor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PORT.SchDoc|Designator=U_Motor|SchDesignator=U_Motor|FileName=Motor.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Motor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=PORT.SchDoc|FileName=8ChannelADCs.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=PORT.SchDoc|FileName=BreakResistor.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=PORT.SchDoc|Designator=U_PreCharge|SchDesignator=U_PreCharge|FileName=PreCharge.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=PreCharge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
