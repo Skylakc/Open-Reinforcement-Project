@@ -1,10 +1,7 @@
-# 欢迎使用AntigenPlatform
+# Welcome to use Reinforcement Platform
 
-这是一个多CPU的~~缝合怪~~实验平台，目的是~~Antigen~~ 实现双电机三电平对拖控制和多种电机实验。兼容SDR前端。
+This is a multi-CPU ~~Sewing Monster~~ power electronics experimental platform designed to realize a comprehensive experimental platform for power electronics technology. Including high-speed DSADC, high-precision ADC, multi-channel DAC and other peripherals.
 
-拟包含FPGA DSP ARM三个设备
+This platform includes FPGA DSP ARM three CPUs.
 
-项目正在持续开发中
-
-
-
+The project is under continuous development.
